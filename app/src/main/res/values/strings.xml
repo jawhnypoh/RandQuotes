@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandQuotes</string>
+    <string name="icon_about">&#xf05a;</string>
+    <string name="icon_refresh">&#xf021;</string>
+    <string name="app_info">RandQuotes is a simple application that generates a random quote from a database of quotes from people throughout history. </string>
+    <string name="api_info">The Random Quotes API is developed and maintained by Tadas Talaikis.</string>
+
+</resources>
